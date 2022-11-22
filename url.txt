@@ -1,0 +1,3 @@
+URL DATASET: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+URL DEPLOYMENT: https://prabaningrum-app.herokuapp.com/
